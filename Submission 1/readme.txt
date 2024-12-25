@@ -8,12 +8,12 @@ Paper title:
 FedAdapter_ Efficient Federated Learning for Modern NLP 
 
 Link to the paper:
-https://ieeexplore......
+https://arxiv.org/abs/2205.10162
 
 Group Number:
-0
+Unknown 
 
 Individual Submitter:
-12345678 Name A
+20101259  Muntasir Ahmed Ador CSE449
 
-I also correctly uploaded slide.PPT and report.PDF here.
+
